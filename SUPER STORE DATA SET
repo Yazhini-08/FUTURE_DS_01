@@ -1,0 +1,36 @@
+# FUTURE_DS_01
+## Task Name
+## Objective
+The objective of this project is to analyze Superstore sales data and create an interactive Power BI dashboard to understand sales performance, profit trends, customer segments, and regional performance.
+## Tools Used
+* Power BI
+* Superstore Sales Dataset
+## Dataset Overview
+The dataset contains information about:
+* Sales
+* Profit
+* Orders
+* Customer Segments
+* Product Categories
+* Regions and States
+* Shipping Details
+## Dashboard Features
+* Total Sales Overview
+* Total Profit Analysis
+* Sales by Region
+* Sales by Category and Sub-Category
+* Customer Segment Analysis
+* Monthly Sales Trends
+* Top Performing Products
+* Profitability Insights
+## Key Insights
+* Identified regions with the highest sales performance.
+* Compared profit generated across different product categories.
+* Analyzed customer segments contributing most to revenue.
+* Tracked monthly sales trends to identify seasonal patterns.
+* Highlighted top-performing products and business opportunities.
+## Files Included
+* Superstore Sales Dashboard.pbix
+## Conclusion
+
+This dashboard provides valuable insights into business performance and helps stakeholders make data-driven decisions regarding sales strategy, customer targeting, and product management.
